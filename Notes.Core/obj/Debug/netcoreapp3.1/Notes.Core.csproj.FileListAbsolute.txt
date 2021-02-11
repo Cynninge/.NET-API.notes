@@ -1,0 +1,11 @@
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csprojAssemblyReference.cache
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfoInputs.cache
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfo.cs
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.deps.json
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.dll
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.pdb
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.CopyComplete
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.dll
+C:\Users\Cynninge\source\repos\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.pdb
